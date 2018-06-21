@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LaserIndustries.ApplicationLogger
+namespace LucaVanzin.ApplicationLogger
 {
 
     public static class Logger
