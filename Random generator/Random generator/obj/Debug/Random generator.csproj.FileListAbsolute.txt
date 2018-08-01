@@ -1,0 +1,7 @@
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\bin\Debug\Random generator.exe.config
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\bin\Debug\Random generator.exe
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\bin\Debug\Random generator.pdb
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\obj\Debug\Random generator.csprojResolveAssemblyReference.cache
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\obj\Debug\Random generator.csproj.CoreCompileInputs.cache
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\obj\Debug\Random generator.exe
+C:\Users\tec4.ele\Documents\Visual Studio 2017\Projects\Random generator\Random generator\obj\Debug\Random generator.pdb
